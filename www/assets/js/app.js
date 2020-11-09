@@ -1,4 +1,4 @@
-var firstUrl = "https://www.grosirdompetjayaabadi.com/app/",
+var firstUrl = "https://www.pusatkulit.com/app/",
 	urlService = firstUrl + "services/apps.php",
 	urlContent = firstUrl + "contents/";
 
